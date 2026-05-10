@@ -22,7 +22,7 @@ I am a proactive Professional based in the UK, specializing in **Financial Crime
 ---
 
 ## 🛠️ Tech & Tools
-* **Data Analysis:** SQL (Beginner-Intermediate), Advanced Excel (Pivot Tables, VLOOKUP)
+* **Data Analysis:** SQL, Advanced Excel (Pivot Tables, VLOOKUP)
 * **Risk Tools:** Case Management Systems, Compliance Monitoring Software
 * **Strategy:** Workflow Mapping (Canva/Lucidchart), Root Cause Analysis (RCA)
 
