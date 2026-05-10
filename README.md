@@ -28,7 +28,7 @@ I am a proactive Professional based in the UK, specializing in **Financial Crime
 
 | Project | Focus | Link |
 | :--- | :--- | :--- |
-| **Amazon Case Study** | Anomaly Detection & ML Feedback | [View Project →](https://github.com/bellachang0106/Amazon-Fincrime-Investigation-Case-Study) |
+| **Amazon Case Study** | Anomaly Detection & ML Feedback | [View Project →](https://github.com/bellachang0106/amazon-fincrime-investigation-case-study) |
 | **KPMG Audit Study** | SQL & Transaction Monitoring | *Coming Soon* |
 ---
 
