@@ -7,25 +7,25 @@ I am a proactive Professional based in the UK, specializing in **Financial Crime
 ---
 
 ## 🚀 Core Expertise
+
 * **Financial Crime (FinCrime):** Expertise in detecting and mitigating fraudulent activities, transaction monitoring, and multi-layered account investigations within high-volume e-commerce ecosystems.
 * **Operational Risk & Governance:** Proven ability to conduct deep-dive audits on enforcement procedures, ensuring strict adherence to **UK FCA (Financial Conduct Authority)** regulations and internal control frameworks.
 * **Process Optimization (Ops Strategy):** Skilled at analyzing manual audit workflows to identify bottlenecks and proposing data-driven solutions to enhance operational efficiency.
 
 ---
 
-## 💼 Professional Footprint in the UK
-* **Debt Compliance Auditor** | *Marston Holdings*
-    * Focusing on **Operational Risk Mitigation** by auditing enforcement activities and ensuring 100% compliance with financial regulations and ethical standards.
-* **Investigation Specialist** | *Amazon UK*
-    * Specialized in **Anti-Fraud & Risk Assessment**, leveraging big data to dismantle sophisticated fraud networks and protect platform integrity.
-* **Financial Risk Management Consultant** | *KPMG Taiwan*
-    * Conducted **Technical AML Audits**, utilizing **SQL** to identify systemic risks and anomalies within large-scale transaction monitoring systems.
-    * Evaluated and enhanced **AML/KYC and transaction screening workflows**, ensuring operational effectiveness in line with global regulatory standards.
-    * Translated complex technical findings into risk mitigation strategies for senior leadership.
+## 💼 Professional Footprint: From Investigation to Strategy
+
+* **Debt Compliance Auditor** | *Marston Holdings (UK)* *Focus:* **Operational Risk & Governance.** Auditing enforcement activities to ensure 100% adherence to financial regulations (FCA) and ethical standards.
+
+* **FinCrime Escalations & Risk Specialist** | *Amazon (UK)* *Focus:* **Anti-Fraud & Transaction Monitoring.** Performed deep-dive assessments on high-risk accounts and managed complex escalations within global marketplaces.
+
+* **Financial Crime Audit & Advisory** | *KPMG (Taiwan)* *Focus:* **Data-Driven AML Audit.** Leveraged **SQL and Power BI** to detect financial crime patterns and optimized KYC/AML workflows for Tier-1 corporate clients.
 
 ---
 
 ## 🛠️ Tech & Tools
+
 * **Data Analysis:** SQL, Advanced Excel (Pivot Tables, VLOOKUP)
 * **Risk Tools:** Case Management Systems, Compliance Monitoring Software
 * **Strategy:** Workflow Mapping (Canva/Lucidchart), Root Cause Analysis (RCA)
@@ -33,9 +33,11 @@ I am a proactive Professional based in the UK, specializing in **Financial Crime
 ---
 
 ## 🎯 What’s Next?
+
 I am currently refining my global compliance perspective in the UK and am open to connecting with professionals in **Risk Strategy, Trust & Safety, and Program Management** in Taiwan (Targeting Late 2026).
 
 📫 **Let's connect and talk Risk & Ops!**
+
 * [LinkedIn](http://www.linkedin.com/in/bellachang0106)
 
 ---
