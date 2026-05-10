@@ -18,6 +18,10 @@ I am a proactive Professional based in the UK, specializing in **Financial Crime
     * Focusing on **Operational Risk Mitigation** by auditing enforcement activities and ensuring 100% compliance with financial regulations and ethical standards.
 * **Investigation Specialist** | *Amazon UK*
     * Specialized in **Anti-Fraud & Risk Assessment**, leveraging big data to dismantle sophisticated fraud networks and protect platform integrity.
+* **Financial Crime Audit & Advisory (Intern)** | *KPMG Taiwan*
+    * Conducted **Technical AML Audits**, utilizing **SQL** to identify systemic risks and anomalies within large-scale transaction monitoring systems.
+    * Evaluated and enhanced **AML/KYC and transaction screening workflows**, ensuring operational effectiveness in line with global regulatory standards.
+    * Translated complex technical findings into risk mitigation strategies for senior leadership.
 
 ---
 
