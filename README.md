@@ -24,20 +24,21 @@ I am a proactive Professional based in the UK, specializing in **Financial Crime
 
 ---
 
-## 🛠️ Tech & Tools
-
-* **Data Analysis:** SQL, Advanced Excel (Pivot Tables, VLOOKUP)
-* **Risk Tools:** Case Management Systems, Compliance Monitoring Software
-* **Strategy:** Workflow Mapping (Canva/Lucidchart), Root Cause Analysis (RCA)
-
----
-
 ## 📂 Featured Case Studies
 
 | Project | Focus | Link |
 | :--- | :--- | :--- |
 | **Amazon Case Study** | Anomaly Detection & ML Feedback | [View Project →](https://github.com/bellachang0106/Amazon-Fincrime-Investigation-Case-Study) |
 | **KPMG Audit Study** | SQL & Transaction Monitoring | *Coming Soon* |
+---
+
+## 🛠️ Tech & Tools
+
+* **Data Analysis:** SQL, Advanced Excel (Pivot Tables, VLOOKUP)
+* **Risk Tools:** Case Management Systems, Compliance Monitoring Software
+* **Strategy:** Workflow Mapping (Canva/Lucidchart), Root Cause Analysis (RCA)
+
+
 
 ---
 
