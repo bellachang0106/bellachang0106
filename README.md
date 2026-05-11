@@ -6,13 +6,7 @@ I am a proactive Professional based in the UK, specializing in **Financial Crime
 
 ---
 
-## 🚀 Core Expertise
 
-* **Financial Crime (FinCrime):** Expertise in detecting and mitigating fraudulent activities, transaction monitoring, and multi-layered account investigations within high-volume e-commerce ecosystems.
-* **Operational Risk & Governance:** Proven ability to conduct deep-dive audits on enforcement procedures, ensuring strict adherence to **UK FCA (Financial Conduct Authority)** regulations and internal control frameworks.
-* **Process Optimization (Ops Strategy):** Skilled at analyzing manual audit workflows to identify bottlenecks and proposing data-driven solutions to enhance operational efficiency.
-
----
 
 ## 💼 Professional Footprint: From Investigation to Strategy
 
