@@ -1,4 +1,4 @@
-# Hi there, I'm Bella Chang! 👋 
+Bella Chang
 
 ### 🛡️ Risk & Compliance Specialist | Financial Crime Investigation & Operational Excellence
 
